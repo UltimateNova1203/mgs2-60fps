@@ -1,7 +1,9 @@
-# mgs2-60fps
- MGS2 PC 60FPS Fix
+# MGS2 PC 60FPS Fix
 
 Simple mod to disable frame skipping, allowing all cutscenes to run at 60FPS, as god intended.
+
+## Preview Video
+[![Watch the video](https://img.youtube.com/vi/5zrvyCzIPsc/maxresdefault.jpg)](https://www.youtube.com/watch?v=5zrvyCzIPsc)
 
 ## Affected address
 Address 0x006E352F is the home to the frame skip value we change (2). All other uses of the frame divider (at 0x00BB6198) set it to either 0 or 1, which means it's not skipping frames. This mod patches the only time it is set to 2, therefore allowing it to never skip frames.
