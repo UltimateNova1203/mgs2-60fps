@@ -1,6 +1,6 @@
 # MGS2 PC 60FPS Fix
 
-Simple mod to disable frame skipping, allowing all cutscenes to run at 60FPS, as god intended.
+Simple mod to disable frame skipping, allowing all cutscenes to run at 60FPS, as god intended. This is ***not*** for the Master Collection
 
 ## Preview Video
 [![Watch the video](https://img.youtube.com/vi/5zrvyCzIPsc/maxresdefault.jpg)](https://www.youtube.com/watch?v=5zrvyCzIPsc)
